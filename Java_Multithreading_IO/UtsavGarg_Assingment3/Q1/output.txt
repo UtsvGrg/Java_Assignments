@@ -1,0 +1,30 @@
+____________________________________
+
+For number of students: 1
+
+0 Threads sorting time: 1 ms
+2 Threads sorting time: 2 ms
+____________________________________
+
+For number of students: 10
+
+0 Threads sorting time: 0 ms
+2 Threads sorting time: 5 ms
+____________________________________
+
+For number of students: 100
+
+0 Threads sorting time: 2 ms
+2 Threads sorting time: 37 ms
+____________________________________
+
+For number of students: 1000
+
+0 Threads sorting time: 40 ms
+2 Threads sorting time: 328 ms
+____________________________________
+
+For number of students: 10000
+
+0 Threads sorting time: 735 ms
+2 Threads sorting time: 3495 ms

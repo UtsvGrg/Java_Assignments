@@ -1,0 +1,54 @@
+______________________________
+
+For Total Nodes: 10
+
+#1 | For 0 Threads
+Tree creation: 1429300 ns
+Height calculation: 21799 ns
+Search calculation: 19900 ns
+
+#2 | For 2 Threads
+Tree creation: 1087500 ns
+Height calculation: 5601 ns
+Search calculation: 4900 ns
+
+#3 | For 4 Threads
+Tree creation: 678300 ns
+Height calculation: 5000 ns
+Search calculation: 5000 ns
+______________________________
+
+For Total Nodes: 1000
+
+#4 | For 0 Threads
+Tree creation: 3945401 ns
+Height calculation: 6000 ns
+Search calculation: 5500 ns
+
+#5 | For 2 Threads
+Tree creation: 1699100 ns
+Height calculation: 5501 ns
+Search calculation: 3700 ns
+
+#6 | For 4 Threads
+Tree creation: 1676000 ns
+Height calculation: 5100 ns
+Search calculation: 3800 ns
+______________________________
+
+For Total Nodes: 1000000
+
+#7 | For 0 Threads
+Tree creation: 453728300 ns
+Height calculation: 6700 ns
+Search calculation: 5500 ns
+
+#8 | For 2 Threads
+Tree creation: 389069999 ns
+Height calculation: 6799 ns
+Search calculation: 5699 ns
+
+#9 | For 4 Threads
+Tree creation: 300929600 ns
+Height calculation: 7500 ns
+Search calculation: 5801 ns
