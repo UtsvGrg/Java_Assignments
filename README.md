@@ -1,7 +1,7 @@
 # Java_Assignments
 
 Worked upon couple of assignments for the college classwork.
-The sssignments covers the following topics in good detail
+The assignments covers the following topics in good detail
 
 - Classes 
 - Objects
